@@ -1,0 +1,61 @@
+
+
+/* font style */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-color{
+    background-color:  #264653;
+}
+.btn-bg{
+    background-color: #E76F51;
+    width: 168px;
+}
+/* happy clients section */
+
+/* clients section */
+.img-size{
+    width: 149px;
+}
+.txt-color{
+    color: #23A6F0;
+}
+a{
+    text-decoration: none;
+}
+.card{
+    width: 322px;
+    height: 450px;
+}
+.icons-color{
+    color: #E77C40;
+}
+.far-icon{
+    color: #E77C40;
+}
+
+/* feature bike */
+.text-size{
+    font-size: 36px;
+    font-weight: 600;
+}
+.img-grayscale{
+    filter: grayscale(1);
+}
+/* frequently askd question */
+.orange-color{
+    color:  #E76F51;;
+}
+.h1-wrap{
+    font-size: 48px;
+    font-weight: 600;
+}
+
+/* footer section */
+footer{
+    height: 100px;
+}
